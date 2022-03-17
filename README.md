@@ -13,9 +13,9 @@ Youtube: https://youtu.be/sZrrzpZJA9U
 
 Application Link: http://52.205.126.107:3000/
 
-Github: https://github.com/Akash274/Project_R_AWS/
+Github: https://github.com/sanchitthakur19/Project_R_AWS/
 
-Github Wiki: https://github.com/Akash274/Project_R_AWS/wiki
+Github Wiki: https://github.com/sanchitthakur19/Project_R_AWS/wiki
 
 ### Creating Ruby on Rails Photo-Sharing Application
 #### Steps to create a Ruby on Rails Application.
