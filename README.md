@@ -18,7 +18,9 @@ Github: https://github.com/sanchitthakur19/Project_R_AWS/
 Github Wiki: https://github.com/sanchitthakur19/Project_R_AWS/wiki
 
 ### Creating Ruby on Rails Photo-Sharing Application
+
 #### Steps to create a Ruby on Rails Application.
+
 * Create a new Ruby on Rails application project.
   New Project -> Rails -> application -> add Ruby SDK and Rails version. For database select sqlite3. Click Create
 * Create two Controllers for user and photo
